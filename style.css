@@ -10,3 +10,8 @@ h1 {
 nav {
   font-weight: bold;
 }
+
+footer {
+  margin-top: 40px;
+  color: gray;
+}
